@@ -1,6 +1,6 @@
 # 🧠 Brain Buster - Python Memory Game
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](images/BrainBusterGame.png)
 
 
 **Brain Buster** is a classic memory matching game built with Python and Tkinter. It features a clean graphical user interface (GUI), a move counter, and special "cheat" mechanics to help you solve the puzzle.
@@ -55,7 +55,13 @@ This project follows the **MVC (Model-View-Controller)** design pattern to keep 
 
 ## 📸 Screenshots
 
+**Victory State**
+The game tracks your efficiency and notifies you when you've found all pairs.
+![Victory Screen](images/Winning.png)
 
+**Give Up Feature**
+If you get stuck, you can reveal the entire grid (shown in red) to see what you missed.
+![Give Up Screen](images/GiveUp.png)
 
 ## 📝 License
 
